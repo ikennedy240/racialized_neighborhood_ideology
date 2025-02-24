@@ -19,105 +19,55 @@ This paper focuses on two topics out of 50. Appendix Table I includes some detai
 Appendix Table I: Topic Descriptions
 
 | **Topic** | **topic title** | Top Words |
-
 | Topic1 | Property Amenities | concierge, conference, valet, lounge, simulator, clubroom, cabanas, grooming, yoga, amenity, billiards, technogym, leed, cardio, trx |
-
 | Topic2 | Appointments and Hours | monday, tuesday, thursday, wednesday, friday, emergency, select, hours, townhomes, patios, saturday, garages, connections, bark, microwaves |
-
 | Topic3 | NYC Area Commute | journal, brunswick, rutherford, jsq, caldwell, fordham, metuchen, seton, njit, palisade, raritan, rahway, cranford, metropark, brkr |
-
 | Topic4 | Walkability | distance, stores, walking, banks, shops, grocery, restaurants, away, farmers, store, joe, markets, within, bakeries, pubs |
-
 | Topic5 | Scenic Views | needle, slu, elliott, elliot, olympics, seward, tableau, melinda, admiral, yesler, pointe, cascades, territorial, century, magnolia |
-
 | Topic6 | Ocean Access | ocean, mahalo, uri, beachfront, kcc, ewa, barracks, ohana, surfboard, hpu, corps, canoe, oceanview, kunia, pupukea |
-
 | Topic7 | Lease Details | signing, month, rent, security, months, due, first, last, year, upfront, total, requires, deposit, upon, lease |
-
 | Topic8 | Parking and Unit Location | condo, unit, spot, secured, condominium, assigned, secure, balcony, complex, reserved, parking, designated, underground, spots, locker |
-
 | Topic9 | On-Site Sports | tennis, courts, court, swimming, pool, basketball, pools, racquetball, playground, volleyball, sauna, spa, clubhouse, spas, resort |
-
 | Topic10 | Section 8 Availability | cargarage, appt, bdrm, duplex, bdr, section, ere, appointment, sec, call, gary, bth, showing, loretta, text |
-
 | Topic11 | Utilities | alll, plowing, snow, removal, numc, floria, eatin, coccia, annadale, bentahar, oil, tottenville, rwu, verdeschi, livingroom |
-
 | Topic12 | Positive Adjectives: Unit | won, see, right, summer, coming, perfect, fall, come, soon, awesome, make, gem, wow, miss, beat |
-
 | Topic13 | Free Standing Homes | house, fenced, yard, shed, single, shotgun, ups, driveway, family, bungalow, hook, back, backyard, unfinished, fence |
-
 | Topic14 | Pet Details | purrr, wooof, turbo, sja, macpherson, redside, sandco, martisa, shinsato, wpm, verraterra, description, terms, eberly, duration |
-
 | Topic15 | Appliances | fans, conditioning, wall, air, ceiling, blinds, refrigerator, fan, microwave, molding, stove, conditioner, ceramic, range, heating |
-
 | Topic16 | Furniture | sofa, linens, mattress, towels, stocked, pots, toaster, utensils, pans, channels, bedding, cookware, sheets, plates, sleeper |
-
 | Topic17 | Least Timing | sublease, takeover, july, sublet, march, min, august, april, dec, transfer, october, earlier, starting, november, february |
-
 | Topic18 | Fees and Deposits | refundable, nonrefundable, adult, insurance, non, damage, pdt, case, application, lbs, holding, processing, brink, charged, liability |
-
 | Topic19 | Lofts and Studios | unhide, studio, urth, posting, studios, deco, loft, lofts, bachelor, vermont, korea, melrose, factory, alcove, ktown |
-
 | Topic20 | Renovations | new, paint, newly, brand, fresh, completely, recently, remodeled, redone, remodel, totally, painted, renovated, freshly, plumbing |
-
 | Topic21 | Architectural Details | doors, sliding, vanity, faucet, enclosure, glass, sink, double, led, shower, french, shelving, porcelain, dispenser, panel |
-
 | Topic22 | Boston Commute | bus, minute, rail, lowell, commuter, stops, miles, merrimack, kenmore, artery, lines, andover, reservoir, hingham, massart |
-
 | Topic23 | Universities and Hospitals | drexel, delaware, ardmore, plymouth, wales, goshen, malvern, forge, abington, darby, villanova, brandywine, hup, radnor, hospital |
-
 | Topic24 | Disclaimers | reusable, comprehensive, race, origin, religion, familial, discrimination, rcw, discriminate, pursuant, prohibits, jmw, consumer, reports, sex |
-
 | Topic25 | Non-Rental: Scams, Offers, Requests | deemed, hyperlink, specialize, ads, obligation, purchase, lender, webpage, consultation, browser, homeownership, copyright, consult, scam, financing |
-
 | Topic26 | Utilities and Parking Included | electricity, pays, sewer, trash, electric, water, sewage, included, plex, paid, utilities, garbage, tenant, except, smoking |
-
 | Topic27 | Driving Distance | canyon, calabasas, saddleback, doheny, pedro, glassell, zaya, palmdale, rowland, danville, ortega, winnetka, springs, talega, freeway |
-
 | Topic28 | High-end Room Size | formal, curb, entertaining, bonus, cape, piece, opens, secondary, berdoom, cod, sliders, colonial, ranch, paver, finished |
-
 | Topic29 | Unit Features | deleaded, medford, applianced, waverley, salem, cushing, watermarked, rentsource, Blackstone, jwu, avl, marescia, sotheby, shilalis, lambergs |
-
 | Topic30 | Contact Information | inquiries, respond, reply, messages, thank, inquires, serious, name, please, message, number, responding, calls, questions, mail |
-
 | Topic31 | Room Count and Layout | washer, dryer, two, one, bedroom, private, three, full, dish, stackable, four, size, bathroom, dyer, den |
-
 | Topic32 | Special Deals | special, ready, hurry, immediate, save, reduced, receive, waived, today, savings, fast, ask, drop, priced, upgrades |
-
 | Topic33 | Roomate/home search | housemate, bit, respectful, stuff, really, hello, roommate, tell, trying, folks, lived, anything, looking, tidy, wanted |
-
 | Topic34 | Modern' Decor | tops, granite, stainless, appliances, steel, counter, countertops, floors, counters, quartz, hardwood, modern, gorgeous, throughout, cherry |
-
 | Topic35 | Boston Brokers | broker, cotter, peterborough, upright, hot, hhw, signature, gtn, valencius, comm, beds, mastercard, bradsfield, beacon, alex |
-
 | Topic36 | Historic Charm | lined, original, ocf, tree, magazine, claw, restored, charm, character, victorian, clawfoot, antique, rowhouse, carriage, classic |
-
 | Topic37 | Chicago Commute | bjb, hermitage, kwgc, rehabbed, welles, rehab, schiller, belden, hoyne, illinois, ukranian, mariano, fultongrace, healy, division |
-
 | Topic38 | Restrictions and Stipulations | ago, consider, taken, rules, owners, noise, tenants, repairs, cleaned, install, portion, disturb, increase, lives, rented |
-
 | Topic39 | Mid-Range Room Size | large, room, closet, living, lots, space, plenty, dining, separate, extra, huge, spacious, storage, ample, closets |
-
 | Topic40 | Garage and Bathroom Counts | townhouse, upstairs, attached, car, garage, level, downstairs, story, townhome, master, opener, upper, fireplace, lower, tri |
-
 | Topic41 | On-Site Community | offer, comfort, furry, variety, convenience, deserve, residents, lifestyle, proud, choose, dip, invite, plans, experience, discover |
-
 | Topic42 | Subject to change without notice | change, notes, vary, staffordshire, represent, chows, prices, availability, subject, presa, terriers, pricing, shepherds, actual, hybrids |
-
 | Topic43 | High-End Unit Descriptions | design, idwm, contemporary, elements, timeless, sophisticated, striking, incorporates, culture, chic, sleek, eclectic, incorporate, refined, elegance |
-
 | Topic44 | Public Transportation Access | apartment, transportation, near, close, yasmine, located, keerah, conveniently, carollo, gesler, public, maintained, beautiful, bedroom, kept |
-
 | Topic45 | High-End Apartment Buildings | uws, skips, flex, stabilized, doorman, streeteasy, trains, windowed, prewar, bochen, crosstown, hell, antagoniste, postwar, net |
-
 | Topic46 | Background and Credit Checks | verifiable, statements, felonies, stub, salary, copies, proof, returns, felony, paycheck, judgments, paystubs, requirement, credit, applicants |
-
 | Topic47 | Schools | elementary, clyde, proctor, finn, chinook, cougar, woodridge, tahoma, kingsgate, tyee, elem, rambler, wedgwood, cumming, school |
-
 | Topic48 | Virtual Tours | alamo, waiver, edwardian, void, contrary, biker, walker, webpass, tours, protocol, walkthrough, golden, cole, japantown, guerrero |
-
 | Topic49 | Anuncios en Español | por, cocina, mes, cerca, sala, grande, dos, piso, disponible, dormitorios, mas, bano, recamaras, esta, tiene |
-
 | Topic50 | Positive Adjectives: Location | location, great, excellent, area, easy, terrific, convenient, open, access, value, prime, ideal, including, areas, friendly |
 
 
@@ -130,9 +80,7 @@ Topic models can be sensitive to the analyst’s choice of the number of topics.
 Appendix Table II: Topic Stability With Changes in K
 
 | Topic Name | 47  | 48  | 49  | **50** | 51  | 52  | 53  |
-
 | Historic Charm (36) | 0.99 | 0.99 | 0.98 | **\-** | 0.99 | 0.99 | 0.99 |
-
 | Positive Adjectives: Location (50) | 0.98 | 0.98 | 0.98 | **\-** | 0.98 | 0.98 | 0.98 |
 
 
@@ -334,94 +282,52 @@ Model Used to Produce Figure 1:
 |     | _Bivariate Model_ |     |
 | --- | --- |     | --- |
 | Covariate | Estimate (SD) | 95% PI Range |
-
 | Intercept | 0.64 (0.001) | 0.64 to 0.64 |
-
 | ntype\[Latino\] | \-4.89 (0.002) | \-4.89 – -4.888 |
-
 | ntype\[Black\] | \-4.85 (0.005) | \-4.86 – -4.843 |
-
 | ntype\[Asian\] | \-5.2 (0.004) | \-5.21 – -5.195 |
-
 | ntype\[White\] | \-5.17 (0.003) | \-5.18 – -5.165 |
-
 | ntype\[Other\] | \-5.01 (0.005) | \-5.02 – -5.006 |
-
 | Observations | 253744 |     |
 | --- | --- |     | --- |
 
 Model Used to Produce Figure 2:
 
 | Covariate | Estimate (SD) | 95% PI Range |
-
 | sigma | 0.6 (0.001) | 0.6 – 0.606 |
-
 | a_nhtype\[Latino\] | \-1.99 (0.157) | \-2.28 – -1.679 |
-
 | a_nhtype\[Black\] | \-1.92 (0.157) | \-2.22 – -1.618 |
-
 | a_nhtype\[Asian\] | \-2.22 (0.156) | \-2.51 – -1.91 |
-
 | a_nhtype\[White\] | \-2.08 (0.157) | \-2.37 – -1.766 |
-
 | a_nhtype\[Other\] | \-2.03 (0.157) | \-2.32 – -1.719 |
-
 | Proportion of Residents Below the Poverty Level | 0.01 (0.024) | \-0.04 – 0.056 |
-
 | Share Owner Occupied Housing | \-0.12 (0.011) | \-0.14 – -0.094 |
-
 | Median Household Income | 0.07 (0.006) | 0.06 – 0.083 |
-
 | Share Single Family Detatched Homes | \-0.27 (0.005) | \-0.28 – -0.26 |
-
 | Share Car Commuters | \-0.36 (0.015) | \-0.39 – -0.328 |
-
 | Share Commute > 20 Mins | \-0.3 (0.018) | \-0.33 – -0.263 |
-
 | Share Rentals in Buildings with >20 Units | \-0.31 (0.009) | \-0.33 – -0.292 |
-
 | Share built before 1940 | 0.08 (0.006) | 0.07 – 0.092 |
-
 | Share Built after 2010 | \-0.58 (0.023) | \-0.63 – -0.539 |
-
 | Share College Graduate or More | 1.41 (0.024) | 1.36 – 1.451 |
-
 | Logged Unit Rent | \-0.22 (0.003) | \-0.22 – -0.211 |
-
 | Number of Bedrooms | 0.05 (0.001) | 0.05 – 0.052 |
-
 | a_metro\[1\] | \-1.99 (0.157) | \-2.28 – -1.679 |
-
 | a_metro\[2\] | \-1.92 (0.157) | \-2.22 – -1.618 |
-
 | a_metro\[3\] | \-2.22 (0.156) | \-2.51 – -1.91 |
-
 | a_metro\[4\] | \-2.08 (0.157) | \-2.37 – -1.766 |
-
 | a_metro\[5\] | \-2.03 (0.157) | \-2.32 – -1.719 |
-
 | a_metro\[6\] | \-1.93 (0.15) | \-2.22 – -1.642 |
-
 | a_metro\[7\] | \-1.98 (0.15) | \-2.27 – -1.688 |
-
 | a_metro\[8\] | \-1.79 (0.15) | \-2.08 – -1.498 |
-
 | a_metro\[9\] | \-2.18 (0.15) | \-2.47 – -1.893 |
-
 | a_metro\[10\] | \-2.15 (0.151) | \-2.44 – -1.86 |
-
 | a_metro\[11\] | \-2.04 (0.15) | \-2.33 – -1.749 |
-
 | a_metro\[12\] | \-1.99 (0.15) | \-2.28 – -1.704 |
-
 | a_metro\[13\] | \-1.89 (0.15) | \-2.18 – -1.599 |
-
 | a_metro\[14\] | \-2.28 (0.15) | \-2.57 – -1.988 |
-
 | a_metro\[15\] | \-2.04 (0.15) | \-2.33 – -1.743 |
-
 | a_metro\[16\] | \-2.01 (0.15) | \-2.3 – -1.721 |
-
 | Observations | 253744 |     |
 | --- | --- |     | --- |
 
@@ -430,52 +336,28 @@ Model Used to Produce Figure 3:
 |     | _Interaction Model_ |     |
 | --- | --- |     | --- |
 | Predictors | Estimates | PI  |
-
 | (Intercept) | \-3.78 | \-3.92 – -3.64 |
-
 | ntype \[asian\] | 0.23 | \-0.03 – 0.49 |
-
 | ntype \[black\] | \-0.49 | \-0.71 – -0.27 |
-
 | ntype \[latinx\] | \-1.44 | \-1.67 – -1.22 |
-
 | ntype \[other\] | \-0.61 | \-0.88 – -0.34 |
-
 | log income | 0.06 | 0.04 – 0.07 |
-
 | cbsa \[Urban Honolulu, HI\] | 0.01 | \-0.01 – 0.03 |
-
 | cbsa \[Worcester, MA-CT\] | \-0.03 | \-0.06 – -0.00 |
-
 | pov proportion | 0.05 | 0.00 – 0.10 |
-
 | share oo | \-0.12 | \-0.14 – -0.09 |
-
 | share sf detached | \-0.27 | \-0.28 – -0.26 |
-
 | share car commuters | \-0.36 | \-0.39 – -0.33 |
-
 | share commute over 20 | \-0.31 | \-0.34 – -0.28 |
-
 | share rental over 20 | \-0.31 | \-0.33 – -0.29 |
-
 | share built before 40 | 0.08 | 0.06 – 0.09 |
-
 | share built after 10 | \-0.6 | \-0.65 – -0.56 |
-
 | share college | 1.43 | 1.38 – 1.48 |
-
 | log price | \-0.22 | \-0.22 – -0.21 |
-
 | beds | 0.05 | 0.05 – 0.05 |
-
 | ntype \[asian\] \* log<br><br>income | \-0.02 | \-0.04 – 0.01 |
-
 | ntype \[black\] \* log<br><br>income | 0.02 | 0.00 – 0.04 |
-
 | ntype \[latinx\] \* log<br><br>income | 0.12 | 0.10 – 0.14 |
-
 | ntype \[other\] \* log<br><br>income | 0.05 | 0.03 – 0.08 |
-
 | Observations | 253744 |     |
 | --- | --- |     | --- |
