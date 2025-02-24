@@ -144,13 +144,13 @@ To further validate the results presented in the main text, I compare the result
 
 Appendix Figure I: Expected Topic Proportion of ‘Positive Adjectives: Location (50)’ by Neighborhood Type
 
-![]
+![](figures/appendixfig1.png)
 
 _The expected prevalence of ‘Positive Adjectives: Location (50)’ is on the X axis, while the neighborhood type is on the Y axis. Error bars represent 95% credible intervals. All other covariates held at their means._
 
 Appendix Figure II: Probability of Observing Positive Terms + ‘neighborhood’
 
-![]
+![](figures/appendixfig2.png)
 
 _The expected probability of observing the terms is on the X axis, while the neighborhood type is on the Y axis. Error bars represent 95% credible intervals._
 
@@ -158,7 +158,7 @@ The first search string I used for Topic50 looks for a combination of any word w
 
 Appendix Figure III: Probability of Observing Positive Terms + ‘location’
 
-#### ![]
+#### ![](figures/appendixfig3.png)
 
 _The expected probability of observing the terms is on the X axis, while the neighborhood type is on the Y axis. Error bars represent 95% credible intervals._
 
@@ -202,7 +202,7 @@ I begin by examining how that topic varies in expected prevalence across the 16 
 
 Appendix Figure IV: Expected Prevalence of Positive Adjectives: Location (50) with Null Specification
 
-![]
+![](figures/appendixfig4.png)
 
 Figure IV shows the expected topic prevalence on the y-axis for each metropolitan area on the x-axis in a model with metropolitan-level random intercepts alone.
 
@@ -212,7 +212,7 @@ Looking at Appendix Figure IV, we can see that though the expected values for so
 
 #### Figure III.5.2
 
-![]
+![](figures/appendixfig5.png)
 
 ##### Figure III.5.2 Caption: Figure III.5.2 shows the expected topic prevalence on the y-axis for each metropolitan area on the x-axis in a model with tract-level random intercepts, metropolitan-level random intercepts, and metropolitan-level covariates
 
@@ -224,7 +224,7 @@ To look at differences in racialization across metropolitan areas, I fit new mod
 
 #### Figure III.5.3
 
-![]
+![](figures/appendixfig5.png)
 
 ##### Figure III.5.3 Caption: Figure III.5.3 shows the expected topic prevalence on the y-axis for each metropolitan area on the x-axis, colored by neighborhood type in a model with tract-level random intercepts, metropolitan-level random intercepts, and neighborhood type random slopes
 
@@ -234,13 +234,14 @@ Moreover, there are clear racialized trends here, inline with the findings prese
 
 #### Figure III.5.4
 
-![]
+![](figures/appendixfig7.png)
 
 ##### Figure III.5.4 Caption: Figure III.5.4 shows the expected contrast in topic prevalence between a White and a Black neighborhood on the y-axis in each metropolitan area on the x-axis in a model with tract-level random intercepts, metropolitan-level random intercepts, and neighborhood type random slopes
 
 That theme of anti-Blackness is perhaps even more clear looking at the contrasts. All but two metros reflect higher values for White neighborhoods than for Black neighborhoods in terms of ‘Positive Adjectives: Location (50).’ A core question, however, is whether there is something about Worcester and Riverside that helps resist this trend of anti-Blackness, or if these results instead might reflect specificities about those metros that we could account for in our modeling strategy.
 
-#### Figure III.5.5![]
+#### Figure III.5.5
+![](figures/appendixfig8.png)
 
 ##### Figure III.5.5 Caption: Figure III.5.5 shows the expected topic prevalence on the y-axis for each metropolitan area on the x-axis, colored by neighborhood type in a model with tract-level random intercepts, metropolitan-level random intercepts, neighborhood type random slopes, and listing-, tract-, and metro-level covariates
 
@@ -248,7 +249,7 @@ Figure III.5.5 shows a model where I add socio-economic and housing stock contro
 
 #### Figure III.5.6
 
-![]
+![](figures/appendixfig9.png)
 
 ##### Figure III.5.6 Caption: Figure III.5.6 shows the expected contrast in topic prevalence between a White and a Black neighborhood on the y-axis in each metropolitan area on the x-axis in a model with tract-level random intercepts, metropolitan-level random intercepts, neighborhood type random slopes, and listing-, tract-, and metro-level covariates
 
@@ -262,11 +263,11 @@ The results of the regression analysis are consistent if we use the topics prese
 
 #### Figure A.7
 
-![]
+![](figures/appendixfigA7.png)
 
 #### Figure A.8
 
-![]
+![](figures/appendixfigA8.png)
 
 The two plots are nearly identical, though Figure A.8, which used the limited data sample has slightly wider errors. I include the whole regression output for these two models below. Note that there are no changes in sign or significance across the models. The coefficient for the interaction between Black neighborhoods and median income is itself not significant in the limited model, but the interaction as a whole still adds to model fit in that case, and the plot is very similar.
 
