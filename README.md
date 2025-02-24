@@ -173,24 +173,25 @@ I use three level mixed-effects models to examine the variation in discourse abo
 As an example of the staged modeling strategy, consider my examination of neighborhood quality. First I examine just the variation in the neighborhood quality topic across metropolitan areas using a model with random intercepts for each metro (not shown). Then I create a similar model that maintains the metro-level intercepts and adds random intercepts for each tract. For models operationalizing discursive features with topic models, the model takes the form shown in (1).
 
 (1)
+![](figures/formula1.png)
 
-Where is a metro-level random intercept, and is a tract-level intercept. Both have priors on their means of since the topic prevalence is normalized and demeaned.
+Where $\alpha_{metro}$ is a metro-level random intercept, and $\alpha_tract$ is a tract-level intercept. Both have priors on their means o $Normal(0,1)$ since the topic prevalence is normalized and demeaned.
 
 Next I model the proportion of the total variance, and of metro-level variance that is accounted for when adding metro-level variables. This model is shown in (2)
 
 (2)
 
-+
+![](figures/formula2.png)
 
-Where , , and are as in (1), are a vector of coefficients (with Normal(0,1) priors) and a matrix of metro-level variables. These models so far are used for all of the discursive themes. The two models described below are used only to examine whether the racialization of discourse surrounding neighborhood quality is consistent across metropolitan areas.
+Where $\alpha_{metro}$, $\mu_{metro}$, and $\sigma_{metro}$ are as in (1), *BX_i* are a vector of coefficients (with Normal(0,1) priors) and a matrix of metro-level variables. These models so far are used for all of the discursive themes. The two models described below are used only to examine whether the racialization of discourse surrounding neighborhood quality is consistent across metropolitan areas.
 
 I fit two models, both of which add random slopes, nested within metropolitan areas, for the neighborhood typology. One of them includes no other covariates and is not shown. The other is the model shown in (3) and also includes covariates at all three levels.
 
 (3)
 
-+
+![](figures/formula3.png)
 
-Where all is as in (2) and is the random slope for each neighborhood type and each metro area, with a prior, where is a covariance matrix with a LKJ Correlation prior with .
+Where all is as in (2) and $\beta_{ntype,metro}$ is the random slope for each neighborhood type and each metro area, with a MultiNormal(0,ρ ,σ_ntype) prior, where \rho is a covariance matrix with a LKJ Correlation prior with η=2.
 
 In the case of racialized discourse about neighborhood quality, there is some variation in how that language is racialized across metropolitan areas. However, that variation is lessened with the inclusion of tract-level variables. In the fully-specified model all metropolitan areas shared a significant contrast between positive language in Black and White neighborhoods.
 
